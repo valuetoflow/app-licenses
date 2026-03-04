@@ -4,13 +4,13 @@
     "license_key": "TRD-7JX3-PQ91-ALRT-9C2Z",
     "domain": "trading.an-nakheel.com",
     "status": "active",
-    "expires_at": "2025-08-07"
+    "expires_at": "2026-06-01"
   },
   {
     "app": "Trading ERP",
     "license_key": "TRD-7JX3-PQ91-ALRT-A51B",
     "domain": "trading.test",
     "status": "active",
-    "expires_at": "2025-12-31"
+    "expires_at": "2026-04-01"
   }
 ]
